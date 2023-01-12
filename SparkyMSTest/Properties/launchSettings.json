@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "SparkyMSTest": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:64162;http://localhost:64166"
+    }
+  }
+}
